@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]! 
+# 👋 Olá, eu sou Erick Machine! 
 
 Bem-vindo ao meu cantinho no GitHub! Sou um [desenvolvedor/engenheiro/designer] apaixonado por [tecnologias, ex.: React, Python e IA]. Aqui compartilho projetos open-source, ideias e um pouco da minha jornada no mundo da tech. 🚀
 
@@ -30,13 +30,6 @@ Bem-vindo ao meu cantinho no GitHub! Sou um [desenvolvedor/engenheiro/designer] 
 
 ---
 
-### 📫 Vamos Conversar?
-<div align="center">
-  <a href="https://linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/seuusuario"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://seuportfolio.com"><img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfólio" /></a>
-</div>
 
 💡 **Dica Interativa**: Clique nos badges acima para me encontrar! Se gostou, dê uma ⭐ no meu repositório favorito.
 
